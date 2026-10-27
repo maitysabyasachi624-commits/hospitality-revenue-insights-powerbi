@@ -9,7 +9,7 @@ The dashboard enables management to monitor key performance indicators, benchmar
 
 ## 📸 Dashboard Preview
 
-![Hospitality Dashboard](assets/dashboard_preview.png)
+![Hospitality Dashboard](assets/Dashboard_preview.png)
 
 ---
 
